@@ -1,0 +1,12 @@
+# macOS Finder droppings
+.DS_Store
+**/.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Python build / cache (the _tools/ generator runs ad hoc; no need to ship caches)
+__pycache__/
+*.pyc
